@@ -42,5 +42,15 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=keerthanamj2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=keerthanamj2005.keerthanamj2005&"  />
+</div>
+
+###
