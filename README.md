@@ -36,15 +36,13 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
 
 ###
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keerthanamj2005&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keerthanamj2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 ###
