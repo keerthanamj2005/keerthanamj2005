@@ -14,6 +14,16 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=keerthanamj2005&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keerthanamj2005&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
