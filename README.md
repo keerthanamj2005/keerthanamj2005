@@ -1,7 +1,7 @@
-## Hi there 👋
-#About Me:
+# About Me:
 Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building AI-powered applications and exploring the latest advancements in Generative AI. I'm always eager to collaborate on innovative projects and continuously expand my knowledge in areas like LangChain, FastAPI, and Multi-Agent AI systems. With a strong foundation in Python, Java, Data Structures, and Software Development, I love turning ideas into impactful solutions. When I'm not coding, you'll probably find me debugging for hours only to discover I missed a semicolon 😄.<br>
 
+<p align="center"> <img src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg" height="400" alt="Girl Coding" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__keerth._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/keerthana-m-j-781809282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthana7275@gmail.com) 
@@ -14,32 +14,6 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=keerthanamj2005&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=keerthanamj2005.keerthanamj2005&"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-A white circle with a dark file icon outlined in the center
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keerthanamj2005&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
@@ -48,19 +22,3 @@ A white circle with a dark file icon outlined in the center
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=keerthanamj2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**keerthanamj2005/keerthanamj2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->i am not getting pacman
