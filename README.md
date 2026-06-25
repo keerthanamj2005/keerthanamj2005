@@ -34,7 +34,6 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthanamj2005/keerthanamj2005/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
 
 
 
