@@ -38,7 +38,7 @@ Hi, I'm Keerthana M J, a Computer Science Engineering student passionate about A
 
 
 
-### Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
